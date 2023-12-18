@@ -16,7 +16,7 @@ then
 else
  echo "$a = $b: a is equal to b"
 fi
-
+echo"learning branching"
 
 if [ -z $a ]
 then
